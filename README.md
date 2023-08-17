@@ -1,3 +1,5 @@
+# The java Version is the most stable then its the rust version
+
 # Ultra Advanced System Discovery Tool
 
 Welcome to the Ultra Advanced System Discovery Tool! This tool provides information about your system, including system details, network information, and more. You can choose from different versions of the script based on your preferred programming language.
