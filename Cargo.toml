@@ -1,0 +1,4 @@
+[dependencies]
+sysinfo = "0.29.7"
+ifaces = "0.1.0"
+chrono = "0.4.19"
