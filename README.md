@@ -27,4 +27,4 @@ You can install these libraries using pip:
 
 
 pip install psutil netifaces pyusb
-Remember to include these dependencies in your respective projects to ensure that the scripts can run successfully.
+
